@@ -87,3 +87,11 @@
 - [预览链接](https://bibi941.github.io/chopper-animation/index.html)
 - [源码地址](https://github.com/bibi941/chopper-animation)
 
+# 代表文章
+[Promise以及async和await](https://juejin.im/post/5b0d56a051882515646dad89)
+[从只会git add .的菜鸟到掌握git基本功能](https://juejin.im/post/5abef8356fb9a028df22bd78)
+[聊聊js中的"继承"](https://juejin.im/post/5af59f316fb9a07ac4801592)
+[浅谈BFC](https://juejin.im/post/5aae3a57f265da23a228e4f5)
+[HTTP缓存](https://juejin.im/post/5ab742f45188255572085797)
+[聊聊js中的函数](https://juejin.im/post/5a781665f265da4e92680593)
+
