@@ -49,7 +49,17 @@
 - 命令行&git  
 了解命令行和git的基本使用
 
+- HTTP 缓存、Cookie、Session 
+了解客户端缓存、Cookie、session 等知识，并写了相应博客
 
+- LocalStorage、Cache-Control、Etag、Expires 
+了解 LocalStorage、Cache-Control、Etag、Expires 等知识，了解几者之间的区别，并写了相应博客
+
+- 同源策略、跨域 
+了解同源策略，以及常用的跨域(jsp、cros、WebSocket)方法
+
+- 浏览器安全
+了解xss、csrf攻击，以及常见的应对策略
 # 个人作品
 ## 移动端网易云音乐
 - 移动端播放,移动端具有歌曲播放、切换、暂停、循环等功能，PC 端歌曲上传、删除、修改等功能。使用 jQuery、MVC设计模式以及 LeanCloud、七牛作为数据库实现。
